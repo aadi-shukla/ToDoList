@@ -12,9 +12,13 @@ yarn start
 
 # install dependencies:
 
-## npm install
+```bash
+# using npm
+ npm install
 
-## yarn install
+# OR using Yarn
+ yarn install
+```
 
 # run applicatio:
 
