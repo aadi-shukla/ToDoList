@@ -1,6 +1,6 @@
 # HOW TO RUN APPLICATION ON LOCAL SERVER
 
-# START METRO SERVER:
+# Start Metro Server:
 
 ```bash
 # using npm
@@ -10,7 +10,7 @@ npm start
 yarn start
 ```
 
-# install dependencies:
+# Install Dependencies:
 
 ```bash
 # using npm
@@ -20,7 +20,7 @@ yarn start
  yarn install
 ```
 
-# run applicatio:
+# Run Application:
 
 ```bash
 # using npm
