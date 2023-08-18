@@ -22,6 +22,8 @@ yarn start
 
 # Run Application:
 
+### For Android
+
 ```bash
 # using npm
 npm run android
